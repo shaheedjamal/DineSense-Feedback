@@ -1,0 +1,6 @@
+{
+  "name": "DineSense Feedback",
+  "description": "Privacy-first restaurant feedback platform combining direct customer surveys, optional consent-based facial-expression cue analysis, and hospitality service analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
